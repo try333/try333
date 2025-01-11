@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 <!--  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=try333&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=try333&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=try333)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
